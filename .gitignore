@@ -1,0 +1,6 @@
+# Личные настройки Claude Code — не в git
+.claude/settings.local.json
+CLAUDE.local.md
+
+__pycache__/
+.DS_Store
