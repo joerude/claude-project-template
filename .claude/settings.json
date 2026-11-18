@@ -6,9 +6,16 @@
         "source": "github",
         "repo": "joerude/claude-setup"
       }
+    },
+    "heydamir": {
+      "source": {
+        "source": "github",
+        "repo": "heydamir/unslop"
+      }
     }
   },
   "enabledPlugins": {
-    "claude-setup@claude-setup": true
+    "claude-setup@claude-setup": true,
+    "unslop@heydamir": true
   }
 }
